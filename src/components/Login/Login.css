@@ -1,0 +1,45 @@
+.loginTitle {
+    font-size: 1.5em;
+}
+
+label {
+    display: block;
+}
+
+input {
+    width: 100%;
+    max-width: 302px;
+    height: 34px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 6px 0;
+    font-size: 14px;
+}
+
+button {
+    width: 100%;
+    max-width: 302px;
+    height: 44px;
+    background-color: #4267b2;
+    border-color: #4267b2;
+    color: white;
+    font-size: 1em;
+    border-radius: 4px;
+}
+
+.outerFormContainer {
+    margin: 8px;
+}
+
+.formContainer {
+    border: 1px solid #d0d1d5;
+    max-width: 614px;
+    height: 300px;
+    margin: auto;
+    padding: 8px;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
